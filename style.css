@@ -1,0 +1,28 @@
+body {
+    background-color: slategrey;
+
+}
+
+button {
+    background-color: black;
+    color: ghostwhite;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input {
+    border-width: 1px;
+    padding: 20px;
+    font-size: 30px;
+    border-color: rgb(20, 59, 99);
+    border-radius: 6px;
+    background-color: darkturquoise;
+}
+
+span {
+    color: ghostwhite;
+    font-size: 50px;
+}
+
